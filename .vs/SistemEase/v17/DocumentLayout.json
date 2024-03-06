@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\SistemEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|c:\\dev\\sistemease\\sistemease\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30AB525E-0EE0-49B2-9791-CF817639AAB9}|SistemEase\\SistemEase.csproj|solutionrelative:sistemease\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SistemEase\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "SistemEase\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T00:15:50.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemEase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemEase\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T00:08:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\Controllers\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SistemEase\\Controllers\\Dashboard.cs",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\Controllers\\Dashboard.cs*",
+              "RelativeToolTip": "SistemEase\\Controllers\\Dashboard.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T00:08:57.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemEase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemEase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T00:03:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T00:00:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\dev\\SistemEase\\SistemEase\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "SistemEase\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\dev\\SistemEase\\SistemEase\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "SistemEase\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-06T00:00:17.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
